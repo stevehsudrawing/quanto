@@ -82,7 +82,7 @@ Welcome your contributions of translation!
 
 # Changelog
 
-It has been posted at other platforms. Now, it is moved here. The 1.30.1 Release is the first version moved here.
+I had adjusted it for a year (and previously it was named "Fluent Design (Rainmeter Skins)" as you can see in the RMSKIN files), and it has been posted at other platforms. Now, it is moved here. The 1.30.1 Release is the first version moved here.
 
 # Note: How to configure AIDA64
 
