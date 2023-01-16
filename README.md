@@ -80,6 +80,10 @@ Welcome your contributions of translation!
 ![1](https://user-images.githubusercontent.com/122773837/212632824-aa0f5bd2-282b-4764-9087-fa1233058975.jpg)
 ![2](https://user-images.githubusercontent.com/122773837/212632836-08159846-c913-4567-abe8-4385121ab08b.jpg)
 
+# Changelog
+
+It has been posted at other platforms. Now, it is moved here. The 1.30.1 Release is the first version moved here.
+
 # Note: How to configure AIDA64
 
 First, [download AIDA64 Extreme or other versions](https://www.aida64.com/). And then:
