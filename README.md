@@ -86,15 +86,7 @@ I had adjusted it for a year (and previously it was named "Fluent Design (Rainme
 
 # Note: How to configure AIDA64
 
-First, [download AIDA64 Extreme or other versions](https://www.aida64.com/). And then:
-
-1. Open AIDA64, cilck "file" at menu and select "preferences".
-2. Down "hardware monitoring" category at the left menu, select "external applications" page, check "enable writing sensor values to Registry" at right, and click "select all" at below.
-
-![405](https://user-images.githubusercontent.com/122773837/212631152-4aab2b2a-5df5-4270-b520-048875fe8f5b.png)
-
-3. Confirm all the dialog, and refresh the skin. Ensure that AIDA64 is running at the background.
-It should be noted that NOT ALL hardware is capable of displaying ALL extra informations due to device differences.
+Please read [this](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#important-how-to-configure-aida64).
 
 # Special Thanks
 
