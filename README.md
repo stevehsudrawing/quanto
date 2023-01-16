@@ -32,7 +32,7 @@ Panels can be added by opening the Settings of Quanto via the "+" button in the 
 
 2. Widgets.[^2]
 
-|Name|Name|Name|Name|Name|
+|Item|Item|Item|Item|Item|
 |- |- |- |- |- |
 |Battery|Calculator|Calendar|Control|COVID-19 Datas|
 |CPU|CPU (Detailed)|Desktop|Drivers (26)|Fans (4)|
@@ -42,7 +42,7 @@ Panels can be added by opening the Settings of Quanto via the "+" button in the 
 
 3. Extras.
 
-|Name|Name|Name|Name|Name|
+|Item|Item|Item|Item|Item|
 |- |- |- |- |- |
 |Background|Global Control|Side Bar Background|Time|Visualiser|
 
