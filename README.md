@@ -8,7 +8,7 @@ Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.devian
 # Get Started
 
 1. Install [Rainmeter](https://www.rainmeter.net/).
-2. Get [the latest release](https://github.com/SteveHsuDrawing/quanto/Releases).
+2. Get [the latest release](https://github.com/SteveHsuDrawing/quanto/releases).
 3. Run it!
 
 # Features
