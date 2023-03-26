@@ -69,6 +69,9 @@ It supports Windows 7 and any newer systems.
 ## Support Languages
 So far, it supports 3 languages.
 Welcome your contributions of translation!
+
+Notice that you should get the latest language files here, instead of native files.
+
 |Code Name|Language Name|Localized Name|Contributor|
 |-|-|-|-|
 |en-US|English (US)|English (US)|Steve Hsu|
