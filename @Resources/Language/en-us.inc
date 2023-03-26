@@ -11,6 +11,8 @@
 ; - .\Tips\en-us.txt
 ; - (Optional: .\Help\en-us.inc )
 
+; When you need to test your translation, please modify "Language" Variable in Settings.inc. Your work will be adopted to be a available selection in Settings.
+
 ; It should be noted that the English language files will be changed ANYTIME WHEN I MODIFIED ANY FUNCTIONS.
 
 ; #CRLF# - Wrap text to next line
