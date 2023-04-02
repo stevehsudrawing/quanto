@@ -1,8 +1,9 @@
 # Introduction
 
-![9](https://user-images.githubusercontent.com/122773837/212628923-6ae95906-4579-4de0-bc8e-b6c423596286.jpg)
+![484](https://user-images.githubusercontent.com/122773837/229330695-61592563-1f54-43ed-82dd-9f46c02dc6b7.png)
 
-Quanto, a desktop customization tool based on Rainmeter. Simple &amp; Freedom.\
+Quanto is a desktop customization tool based on Rainmeter.
+
 Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) by fediaFedia.
 
 # Get Started
@@ -64,13 +65,12 @@ Examples:
 
 It supports Windows 7 and any newer systems.
 
-![8](https://user-images.githubusercontent.com/122773837/212630922-0c08ba23-b2ed-4afe-bc33-45cee30f2b40.jpg)
+![483](https://user-images.githubusercontent.com/122773837/229330589-904fc083-744e-49ab-92ef-7f13bdb87f26.png)
 
-## Support Languages
-So far, it supports 3 languages.
+## Globalization
 Welcome your contributions of translation!
 
-Notice that you should get the latest language files here, instead of native files.
+If you interested, please read [this](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation).
 
 |Code Name|Language Name|Localized Name|Contributor|
 |-|-|-|-|
