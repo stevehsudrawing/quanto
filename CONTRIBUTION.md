@@ -9,8 +9,6 @@ What [files](https://github.com/SteveHsuDrawing/quanto/tree/main/%40Resources/La
 - [./@Resources/Language/en-us.inc](https://github.com/SteveHsuDrawing/quanto/blob/main/%40Resources/Language/en-us.inc)
 - [./@Resources/Language/GetStarted/en-us.inc](https://github.com/SteveHsuDrawing/quanto/blob/main/%40Resources/Language/GetStarted/en-us.inc)
 - [./@Resources/Language/Shortcuts/en-us.inc](https://github.com/SteveHsuDrawing/quanto/blob/main/%40Resources/Language/Shortcuts/en-us.inc)
-- [./@Resources/Language/Tips/en-us.txt](https://github.com/SteveHsuDrawing/quanto/blob/main/%40Resources/Language/Tips/en-us.txt)
-- [./@Resources/Language/Help/en-us.inc](https://github.com/SteveHsuDrawing/quanto/blob/main/%40Resources/Language/Help/en-us.inc) (Optional)
 
 Grab these and rename them in [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) and [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) format. e.g. en-us
 
