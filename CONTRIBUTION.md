@@ -16,6 +16,5 @@ When you completed your work, please:
 
 1. Fork the repository.
 2. Go to [./@Resources/Language](https://github.com/SteveHsuDrawing/quanto/tree/main/%40Resources/Language) and upload your files.
-3. Add your name in the "ThanksTo" line in [./@Resources/Language/Global.inc](https://github.com/SteveHsuDrawing/quanto/tree/main/%40Resources/Language/Global.inc).
 
-It should be noted that the English language files will be changed ANYTIME WHEN I MODIFIED ANY FUNCTIONS.
+Your work will appeared in next version usually. It should be noted that the English language files will be changed ANYTIME WHEN I MODIFIED ANY FUNCTIONS.
