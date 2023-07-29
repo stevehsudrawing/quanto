@@ -15,6 +15,7 @@ Grab these and rename them in [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-
 When you completed your work, please:
 
 1. Fork the repository.
-2. Go to [./@Resources/Language](https://github.com/SteveHsuDrawing/quanto/tree/main/%40Resources/Language) and upload your files.
+2. Go to [./@Resources/Language](https://github.com/SteveHsuDrawing/quanto/tree/main/%40Resources/Language) to download language files.
+3. When you're completed, upload your files.
 
 Your work will appeared in next version usually. It should be noted that the English language files will be changed ANYTIME WHEN I MODIFIED ANY FUNCTIONS.
