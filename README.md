@@ -1,3 +1,7 @@
+> # 1.31 is coming soon!
+>
+> The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
+
 # Introduction
 
 ![484](https://user-images.githubusercontent.com/122773837/229330695-61592563-1f54-43ed-82dd-9f46c02dc6b7.png)
@@ -5,8 +9,6 @@
 Quanto is a desktop customization tool based on Rainmeter.
 
 Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) by fediaFedia.
-
-__1.31 is coming soon!__ The relevant language files have been completed. If you are interested in translation work, welcome to [join](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
 
 # Get Started
 
