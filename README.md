@@ -6,6 +6,8 @@ Quanto is a desktop customization tool based on Rainmeter.
 
 Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) by fediaFedia.
 
+__1.31 is coming soon!__ The relevant language files have been completed. If you are interested in translation work, welcome to [join](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
+
 # Get Started
 
 1. Install [Rainmeter](https://www.rainmeter.net/).
@@ -14,7 +16,8 @@ Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.devian
 
 # Features
 
-¿Quanto? ¡Mucho!\
+__¿Quanto? ¡Mucho!__
+
 It's more than you can imagine!
 
 ## Make Your Layouts Freely
