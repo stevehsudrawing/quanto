@@ -1,14 +1,18 @@
 > # 1.31 is coming soon!
 >
 > The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
-
-# Introduction
+> 
+> <div align="center"><img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b2c4e51f-e85f-4553-8f98-304bb71f621d" width=600/></div>
 
 ![484](https://user-images.githubusercontent.com/122773837/229330695-61592563-1f54-43ed-82dd-9f46c02dc6b7.png)
 
-Quanto is a desktop customization tool based on Rainmeter.
+<div align="center">
 
-Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) by fediaFedia.
+  A desktop customization tool based on Rainmeter
+  
+  Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) by fediaFedia.
+
+</div>
 
 # Get Started
 
@@ -18,19 +22,25 @@ Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.devian
 
 # Features
 
-__¿Quanto? ¡Mucho!__
+<div align="center">
+  
+  __¿Quanto? ¡Mucho!__
+  
+  It's more than you can imagine!
 
-It's more than you can imagine!
+</div>
 
 ## Make Your Layouts Freely
 
-Default layouts are included Center, Both Sides and Side Bar.[^1]
+Default layouts:[^1]
 
-![3](https://user-images.githubusercontent.com/122773837/212629309-b3df89a3-a8c8-4633-945d-3a923754248c.jpg)
+<img width="959" alt="5" src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/f1196877-ff09-4004-be66-e055d20973c3">
+
+Just move your mouse, and you can get a surprising result!
 
 This is a multi-panel assembled tool. You can freely assemble it according to your needs.
 
-## The Whole Nine Yards!
+## More than you expected
 
 Panels can be added by opening the Settings of Quanto via the "+" button in the corner of the desktop or the right-click context menu of each panel.
 
@@ -48,11 +58,14 @@ Panels can be added by opening the Settings of Quanto via the "+" button in the 
 
 3. Extras.
 
-|Item|Item|Item|Item|Item|
-|- |- |- |- |- |
-|Background|Global Control|Side Bar Background|Time|Visualiser|
+|Item|Item|Item|
+|- |- |- |
+|Background|Global Control|Side Bar Background|
+|Time|Visualiser||
 
 ## All Control at Your Fingertips
+
+Not just blocks!
 
 Global Settings can be opened by opening the Settings of Quanto via the "+" button in the corner of the desktop or the right-click context menu of each panel.
 
@@ -73,6 +86,7 @@ It supports Windows 7 and any newer systems.
 ![483](https://user-images.githubusercontent.com/122773837/229330589-904fc083-744e-49ab-92ef-7f13bdb87f26.png)
 
 ## Globalization
+
 Welcome your contributions of translation!
 
 If you interested, please read [this](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation).
@@ -94,6 +108,10 @@ I had adjusted it for a year (and previously it was named "Fluent Design (Rainme
 
 # Note: How to configure AIDA64
 
+Configure AIDA64, and you will get a richer system monitoring feature.
+
+<div align="center"><img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/f66408f6-4a00-4e35-bea7-c31993de0d2a" width=600/></div>
+
 Please read [this](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#important-how-to-configure-aida64).
 
 # Special Thanks
@@ -107,6 +125,8 @@ Please read [this](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshootin
 | Brian | [HotKey plugin](https://forum.rainmeter.net/viewtopic.php?t=18849) |
 | NighthawkSLO | [Mouse plugin](https://github.com/NighthawkSLO/Mouse.dll/releases) |
 | smurfier | [LuaCalendar](https://forum.rainmeter.net/viewtopic.php?p=63288&hilit=LuaCalendar#p63288) |
+
+> Images above are for reference only, please refer to the actual situation.
 
 [^1]: The preset layouts DOESN'T contain wallpaper. Please set it by yourself.
 [^2]: Install and configure AIDA64 for a complete experience.
