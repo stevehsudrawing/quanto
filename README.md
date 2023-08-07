@@ -112,7 +112,7 @@ Configure your system monitoring software, and you will get a richer system moni
 
 <div align="center"><img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/ece76795-bc8b-4ab1-8b95-be22f33e9ced" width=600/></div>
 
-Please read [this](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#important-how-to-configure-aida64).
+Please read [this entry](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#important-how-to-configure-my-system-monitoring-software).
 
 > Now, 1.30.1 supports AIDA64 only. HWiNFO support will come in the form of add-ons.
 
