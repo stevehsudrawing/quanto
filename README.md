@@ -58,7 +58,7 @@ Panels can be added by opening the Settings of Quanto via the "+" button in the 
 |Item|Item|Item|
 |- |- |- |
 |⬜Background|🕓Clock|🎛️Global Control|
-|⬜Side Bar Background|📟Time|📊Visualiser|
+|⬜Side Bar Background|🕓Time|📊Visualiser|
 
 # All control at your fingertips
 
