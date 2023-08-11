@@ -1,36 +1,33 @@
-> # 1.31 is coming soon!
->
-> The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
-> 
-> <div align="center"><img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b2c4e51f-e85f-4553-8f98-304bb71f621d" width=600/></div>
 
-![484](https://user-images.githubusercontent.com/122773837/229330695-61592563-1f54-43ed-82dd-9f46c02dc6b7.png)
+> <div align="center">
+>
+>  # 1.31 Update!
+>
+>  [**CLICK HERE TO DOWNLOAD**](https://github.com/SteveHsuDrawing/quanto/releases)
+>
+>  [**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto#changelog)
+>
+>  The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
+>
+> </div>
 
 <div align="center">
+  
+  <img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b2c4e51f-e85f-4553-8f98-304bb71f621d" width=900/>
 
+  <img src="https://user-images.githubusercontent.com/122773837/229330695-61592563-1f54-43ed-82dd-9f46c02dc6b7.png" width=900/>
+  
   A desktop customization tool based on Rainmeter
   
   Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) by fediaFedia.
 
-</div>
-
-# Get Started
-
-1. Install [Rainmeter](https://www.rainmeter.net/).
-2. Get [the latest release](https://github.com/SteveHsuDrawing/quanto/releases).
-3. Run it!
-
-# Features
-
-<div align="center">
-  
   __¿Quanto? ¡Mucho!__
   
   It's more than you can imagine!
 
 </div>
 
-## Make your layouts freely
+# Make your layouts freely
 
 Default layouts:[^1]
 
@@ -40,56 +37,60 @@ Just move your mouse, and you can get a surprising result!
 
 This is a multi-panel assembled tool. You can freely assemble it according to your needs.
 
-## More than you expected
+# More than you expected
 
 Panels can be added by opening the Settings of Quanto via the "+" button in the corner of the desktop or the right-click context menu of each panel.
 
 1. Shortcuts and 4 4-in-1 panels.
 
-2. Widgets.[^2]
+2. Widgets.
 
 |Item|Item|Item|Item|Item|
-|- |- |- |- |- |
-|Battery|Calculator|Calendar|Control|COVID-19 Datas|
-|CPU|CPU (Detailed)|Desktop|Drivers (26)|Fans (4)|
-|Gallery|GPU (8)|Media Control|Network|Note (4)|
-|RAM|RSS Feeds|Search|Stopwatch|Time & Date|
-|Timer|Weather|World Clock|||
+|-|-|-|-|-|
+|🔋Battery       |🧮Calculator|📆Calendar     |🎚️Control    |⚙️CPU          |
+|⚙️CPU Processors|🖼️Desktop   |💽Drives (26)  |⚙️Fans (4)   |🗂️Folder Viewer|
+|🖼️Gallery       |⚙️GPU (8)   |⏯️Media Control|🌐Network    |⚙️RAM          |
+|📰RSS Feeds     |🔍Search    |🗒️Sticker      |⏱️Stopwatch  |🕓Time & Date  |
+|⌛Timer         |📝To-do List|🌤️Weather      |🌎World Clock|                |
 
 3. Extras.
 
 |Item|Item|Item|
 |- |- |- |
-|Background|Global Control|Side Bar Background|
-|Time|Visualiser||
+|⬜Background|🕓Clock|🎛️Global Control|
+|⬜Side Bar Background|📟Time|📊Visualiser|
 
-## All control at your fingertips
+# All control at your fingertips
 
 Not just blocks!
 
 Global Settings can be opened by opening the Settings of Quanto via the "+" button in the corner of the desktop or the right-click context menu of each panel.
 
-Examples:
+Such as global themes...
 
-- Color modes
+<div align="center"><img width="900" alt="5" src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b5690f8b-e8d7-41ab-bb0c-4f82270a508f"></div>
 
-<div align="center"><img width="900" alt="5" src="https://user-images.githubusercontent.com/122773837/212629388-1bb241b1-d936-4cce-8060-e120f156d92e.jpg"></div>
+Design styles...
 
-- See big in small. Details Settings (Take Effect and Rounded coners & borders for an example):
+<div align="center"><img width="400" alt="5" src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/a43e4ee7-b066-41b9-a36c-2171f8f8eec5"></div>
 
-<div align="center"><img width="900" alt="5" src="https://user-images.githubusercontent.com/122773837/212630353-2ef637b8-8ea0-4410-ba64-b3cd9ddc2f97.jpg"></div>
+Or even some smallest visual details!
 
-## System Compatibility
+
+<div align="center"><img width="600" alt="5" src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/db0a32a8-0c1c-4141-a3ed-2e0ef3fb561f"></div>
+
+
+# System Compatibility
 
 It supports Windows 7 and any newer systems.
 
 <div align="center"><img width="900" alt="5" src="https://user-images.githubusercontent.com/122773837/229330589-904fc083-744e-49ab-92ef-7f13bdb87f26.png"></div>
 
-## Globalization
+# Globalization
 
 Welcome your contributions of translation!
 
-If you interested, please read [this](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation).
+If you are interested, please [read it](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation).
 
 |Code Name|Language Name|Localized Name|Contributor|
 |-|-|-|-|
@@ -97,16 +98,45 @@ If you interested, please read [this](https://github.com/SteveHsuDrawing/quanto/
 |zh-CN|Chinese (Simplified)|中文 (简体)|Steve Hsu|
 |zh-TW|Chinese (Traditional)|中文 (繁體)|Steve Hsu|
 
-# Screenshots
-
-<div align="center"><img width="900" alt="5" src="https://user-images.githubusercontent.com/122773837/212632824-aa0f5bd2-282b-4764-9087-fa1233058975.jpg"></div>
-<div align="center"><img width="900" alt="5" src="https://user-images.githubusercontent.com/122773837/212632836-08159846-c913-4567-abe8-4385121ab08b.jpg"></div>
-
 # Changelog
 
-I had adjusted it for a year (and previously it was named "Fluent Design (Rainmeter Skins)" as you can see in the RMSKIN files), and it has been posted at other platforms. Now, it is moved here. The 1.30.1 Release is the first version moved here.
+> **1.31 Release**
+>
+> Compared to 1.30.1 .
 
-# Note: How to configure a system monitoring software
+- A new design style is available that is optimized for right-angle looks.
+- Added 6 preset themes.
+- Added "To-do List" widget.
+- Added "Folder Viewer or Dock" widget.
+- The quantity of "custom shortcuts" was increased to 120.
+- Added MediaPlayer Plugin and WebNowPlaying Plugin support for Music Playback Control.
+- Added 2x2 style for various system monitoring widgets.
+- Add the quantity of "Fans", "Gallery", "RSS" and "Sticker" widgets to 8.
+- Added Quanto Add-ons feature.
+---
+- Redesigned appearances of panels.
+- Redesigned the "Colored (Experimental)" color mode.
+- Redesigned "Welcome".
+- Redesigned the Quanto Settings as well as the About, Global Settings, and Add Skins interfaces. In addition, its location was changed from "...\Widgets\Settings" to "...\Extras\Settings".
+- Redesigned panel settings. We provide a more unified and concise interface.
+- Redesigned RSS and Weather widget. Now with a richer look and information.
+- "Notes" was renamed as "Sticker".
+---
+- Optimized functionality and user experience.
+- Fixed known bugs such as the inability to set the target of preset shortcuts.
+---
+- Removed the local Help Center feature, and replaced it with the online Quanto Wiki.
+- Removes the zoom variant of the three layouts, and you can no longer set the layout from Global Settings.
+- Removed the "COVID-19 Datas" widget.
+- Removed the 4x2 style for some system monitoring widgets.
+
+# Get Started
+
+1. Install [Rainmeter](https://www.rainmeter.net/).
+2. Get [the latest release](https://github.com/SteveHsuDrawing/quanto/releases).
+3. Run it!
+
+## Note: How to configure a system monitoring software
 
 Configure your system monitoring software, and you will get a richer system monitoring feature.
 
@@ -114,22 +144,28 @@ Configure your system monitoring software, and you will get a richer system moni
 
 Please read [this entry](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#important-how-to-configure-my-system-monitoring-software).
 
-> Now, 1.30.1 supports AIDA64 only. HWiNFO support will come in the form of add-ons.
+## Note: For Windows 8/8.1 users
+
+MediaPlayer plugin is not compatible with Windows 8/8.1. When installing, **“MediaPlayer.dll” must be unchecked in the window to block the installation, otherwise Rainmeter will not work after applying the layout!**
+
+If you still installed it by mistake, please [read it](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#im-a-windows-881-user-after-installing-quanto-and-applying-layout-i-cant-run-rainmeter-anymore).
 
 # Special Thanks
 
-| User | Credit |
+| Author | Credit |
 |-|-|
-| fediaFedia | [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) |
+| fediaFedia | [Big Sur for Rainmeter](https://deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) |
 | Socks the Fox | [Chameleon plugin](https://github.com/socks-the-fox/Chameleon) |
 | Setsukka | [FileChoose plugin](https://forum.rainmeter.net/viewtopic.php?t=33767) |
-| theAzack9 | [FrostedGlass plugin](https://forum.rainmeter.net/viewtopic.php?t=23106) |
-| Brian | [HotKey plugin](https://forum.rainmeter.net/viewtopic.php?t=18849) |
+| theAzack9 | [FrostedGlass plugin](https://github.com/TheAzack9/FrostedGlass) |
+| Brian | [HotKey plugin](https://github.com/brianferguson/HotKey.dll) |
+| smurfier | [LuaCalendar](https://forum.rainmeter.net/viewtopic.php?p=63288) |
+| i2002 | [MediaPlayer plugin](https://github.com/i2002/RainmeterMediaPlayer) |
 | NighthawkSLO | [Mouse plugin](https://github.com/NighthawkSLO/Mouse.dll/releases) |
-| smurfier | [LuaCalendar](https://forum.rainmeter.net/viewtopic.php?p=63288&hilit=LuaCalendar#p63288) |
+| JSMorley | [RainRGB4](https://forum.rainmeter.net/viewtopic.php?t=6215) |
+| Brian | [SysColor plugin](https://github.com/brianferguson/SysColor.dll) |
+| tjhrulz | [WebNowPlaying plugin](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) |
 
 > Images above are for reference only, please refer to the actual situation.
 
-[^1]: The preset layouts DOESN'T contain wallpaper. Please set it by yourself.
-
-[^2]: Install and configure AIDA64 for a complete experience.
+[^1]: The preset layouts DON'T contain wallpaper. Please set it by yourself.
