@@ -1,13 +1,15 @@
 
 > <div align="center">
 >
->  # 1.31 Update!
->
+>  # 1.31 UPDATE!
+> 
 >  [**CLICK HERE TO DOWNLOAD**](https://github.com/SteveHsuDrawing/quanto/releases)
 >
 >  [**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto#changelog)
 >
 >  The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
+>
+>  And 1.31.1 is coming soon!
 >
 > </div>
 
