@@ -9,7 +9,7 @@
 >
 >  The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
 >
->  And 1.31.1 is coming soon!
+>  And 1.31.1 & 2.00 are coming soon!
 >
 > </div>
 
