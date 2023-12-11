@@ -5,7 +5,7 @@
  
 [**CLICK HERE TO DOWNLOAD**](https://github.com/SteveHsuDrawing/quanto/releases)
 
-[**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto#changelog)
+[**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto?tab=readme-ov-file#changelog)
 
 The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
 
