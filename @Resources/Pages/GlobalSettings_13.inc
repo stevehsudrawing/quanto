@@ -142,19 +142,19 @@ OnRefreshAction=[#Color_ReadyState.[#Color_ReadyState]_Action]
 Measure=String
 String=#Color_Ready#
 RegExpSubstitute=1
-Substitute=",.*,.*":""
+Substitute="(\w+),(\w+),(\w+)":"\1"
 DynamicVariables=1
 [MPCG]
 Measure=String
 String=#Color_Ready#
 RegExpSubstitute=1
-Substitute="[MPCR],":"",",.*":""
+Substitute="(\w+),(\w+),(\w+)":"\2"
 DynamicVariables=1
 [MPCB]
 Measure=String
 String=#Color_Ready#
 RegExpSubstitute=1
-Substitute=".*,.*,":""
+Substitute="(\w+),(\w+),(\w+)":"\3"
 DynamicVariables=1
 
 [MSCR]
