@@ -1,25 +1,31 @@
 
-> <div align="center">
->
->  # 1.31 Update!
->
->  [**CLICK HERE TO DOWNLOAD**](https://github.com/SteveHsuDrawing/quanto/releases)
->
->  [**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto#changelog)
->
->  The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
->
-> </div>
+<div align="center">
+
+# `1.31 UPDATE!`
+ 
+[**CLICK HERE TO DOWNLOAD**](https://github.com/SteveHsuDrawing/quanto/releases)
+
+[**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto?tab=readme-ov-file#changelog)
+
+The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
+
+And **`1.31.1`** & **`Flx` Edition** are coming soon!
+
+</div>
 
 <div align="center">
-  
+
   <img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b2c4e51f-e85f-4553-8f98-304bb71f621d" width=900/>
 
-  <img src="https://user-images.githubusercontent.com/122773837/229330695-61592563-1f54-43ed-82dd-9f46c02dc6b7.png" width=900/>
+  <img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b03f132c-2134-44f5-b3e0-a8d30122ee59" width=600/>
   
   A desktop customization tool based on Rainmeter
   
-  Inspired by designs of Windows 11 and [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) by fediaFedia.
+  Inspired by designs of Windows 11 and <a href="https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462">Big Sur for Rainmeter</a> by fediaFedia.
+
+  <a href="https://forum.rainmeter.net/viewtopic.php?t=41809">Rainmeter Forum</a> | <a href="https://www.patreon.com/quantoseries">Patreon</a>
+
+  -----
 
   __¿Quanto? ¡Mucho!__
   
@@ -47,18 +53,18 @@ Panels can be added by opening the Settings of Quanto via the "+" button in the 
 
 |Item|Item|Item|Item|Item|
 |-|-|-|-|-|
-|🔋Battery       |🧮Calculator|📆Calendar     |🎚️Control    |⚙️CPU          |
-|⚙️CPU Processors|🖼️Desktop   |💽Drives (26)  |⚙️Fans (4)   |🗂️Folder Viewer|
-|🖼️Gallery       |⚙️GPU (8)   |⏯️Media Control|🌐Network    |⚙️RAM          |
-|📰RSS Feeds     |🔍Search    |🗒️Sticker      |⏱️Stopwatch  |🕓Time & Date  |
-|⌛Timer         |📝To-do List|🌤️Weather      |🌎World Clock|                |
+|🔋Battery       |🧮Calculator|📆Calendar         |🎚️Control    |⚙️CPU          |
+|⚙️CPU Processors|🖼️Desktop   |💽Drives (26)      |⚙️Fans (4)   |🗂️Folder Viewer|
+|🖼️Gallery       |⚙️GPU (8)   |⏯️Media Control    |🌐Network    |⚙️RAM          |
+|📰RSS Feeds     |🔍Search    |🗒️Sticky Notes (8) |⏱️Stopwatch  |🕓Time & Date  |
+|⌛Timer         |📝To-do List|🌤️Weather          |🌎World Clock|                |
 
 3. Extras.
 
 |Item|Item|Item|
 |- |- |- |
-|⬜Background|🕓Clock|🎛️Global Control|
-|⬜Side Bar Background|🕓Time|📊Visualiser|
+|⬜Background         |🕓Clock|🎛️Global Control|
+|⬜Side Bar Background|🕓Time |📊Visualiser    |
 
 # All control at your fingertips
 
@@ -94,15 +100,15 @@ If you are interested, please [read it](https://github.com/SteveHsuDrawing/quant
 
 |Code Name|Language Name|Localized Name|Contributor|
 |-|-|-|-|
-|en-US|English (US)|English (US)|Steve Hsu|
-|zh-CN|Chinese (Simplified)|中文 (简体)|Steve Hsu|
-|zh-TW|Chinese (Traditional)|中文 (繁體)|Steve Hsu|
+|`en-US`|English (US)|English (US)|Steve Hsu|
+|`zh-CN`|Chinese (Simplified)|中文 (简体)|Steve Hsu|
+|`zh-TW`|Chinese (Traditional)|中文 (繁體)|Steve Hsu|
 
 # Changelog
 
-> **1.31 Release**
+> **`1.31 Release`**
 >
-> Compared to 1.30.1 .
+> Compared to `1.30.1` .
 
 - A new design style is available that is optimized for right-angle looks.
 - Added 6 preset themes.
