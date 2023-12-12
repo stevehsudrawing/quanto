@@ -1,19 +1,15 @@
 
 <div align="center">
 
-# `1.31 UPDATE!`
+  # `1.31.1 UPDATE!`
  
-[**CLICK HERE TO DOWNLOAD**](https://github.com/SteveHsuDrawing/quanto/releases)
+  [**CLICK HERE TO DOWNLOAD**](https://github.com/SteveHsuDrawing/quanto/releases)
 
-[**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto?tab=readme-ov-file#changelog)
+  [**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto?tab=readme-ov-file#changelog)
 
-The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
+  The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
 
-And **`1.31.1`** & **`Flx` Edition** are coming soon!
-
-</div>
-
-<div align="center">
+  **"Flx" Edition, the future of Quanto, is coming soon!**
 
   <img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b2c4e51f-e85f-4553-8f98-304bb71f621d" width=900/>
 
@@ -53,11 +49,11 @@ Panels can be added by opening the Settings of Quanto via the "+" button in the 
 
 |Item|Item|Item|Item|Item|
 |-|-|-|-|-|
-|🔋Battery       |🧮Calculator|📆Calendar         |🎚️Control    |⚙️CPU          |
-|⚙️CPU Processors|🖼️Desktop   |💽Drives (26)      |⚙️Fans (4)   |🗂️Folder Viewer|
-|🖼️Gallery       |⚙️GPU (8)   |⏯️Media Control    |🌐Network    |⚙️RAM          |
-|📰RSS Feeds     |🔍Search    |🗒️Sticky Notes (8) |⏱️Stopwatch  |🕓Time & Date  |
-|⌛Timer         |📝To-do List|🌤️Weather          |🌎World Clock|                |
+|🔋Battery       |🧮Calculator|📆Calendar         |🎚️Control    |⚙️CPU             |
+|⚙️CPU Processors|🖼️Desktop   |💽Drives (26)      |⚙️Fans (8)   |🗂️Folder Viewer(8)|
+|🖼️Gallery       |⚙️GPU (8)   |⏯️Media Control    |🌐Network    |⚙️RAM             |
+|📰RSS Feeds     |🔍Search    |🗒️Sticky Notes (8) |⏱️Stopwatch  |🕓Time & Date     |
+|⌛Timer         |📝To-do List|🌤️Weather          |🌎World Clock|                   |
 
 3. Extras.
 
@@ -106,35 +102,23 @@ If you are interested, please [read it](https://github.com/SteveHsuDrawing/quant
 
 # Changelog
 
-> **`1.31 Release`**
+> **`1.31.1 Release`**
 >
-> Compared to `1.30.1` .
+> Compared to 1.31 Release.
 
-- A new design style is available that is optimized for right-angle looks.
-- Added 6 preset themes.
-- Added "To-do List" widget.
-- Added "Folder Viewer or Dock" widget.
-- The quantity of "custom shortcuts" was increased to 120.
-- Added MediaPlayer Plugin and WebNowPlaying Plugin support for Music Playback Control.
-- Added 2x2 style for various system monitoring widgets.
-- Add the quantity of "Fans", "Gallery", "RSS" and "Sticker" widgets to 8.
-- Added Quanto Add-ons feature.
+- `+` The `Safe Layout` has been added to assist users in resolving issues where layouts cannot be applied in the welcome screen.
+
 ---
-- Redesigned appearances of panels.
-- Redesigned the "Colored (Experimental)" color mode.
-- Redesigned "Welcome".
-- Redesigned the Quanto Settings as well as the About, Global Settings, and Add Skins interfaces. In addition, its location was changed from "...\Widgets\Settings" to "...\Extras\Settings".
-- Redesigned panel settings. We provide a more unified and concise interface.
-- Redesigned RSS and Weather widget. Now with a richer look and information.
-- "Notes" was renamed as "Sticker".
+
+- `*` The project was renamed `Quanto Original`.
+- `*` Improved `Calender` widget (4x4). Now it can toggle the displaying month by mouse scrolling, and you can also set the first day of the week to Monday.
+- `*` Revised some English text.
+- `*` Fixed some known bugs such as error codes not showing up in the `Weather` widget.
+
 ---
-- Optimized functionality and user experience.
-- Fixed known bugs such as the inability to set the target of preset shortcuts.
----
-- Removed the local Help Center feature, and replaced it with the online Quanto Wiki.
-- Removes the zoom variant of the three layouts, and you can no longer set the layout from Global Settings.
-- Removed the "COVID-19 Datas" widget.
-- Removed the 4x2 style for some system monitoring widgets.
+
+- `-` Removed the default API key. Now you have to [get your own API key](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#how-to-get-one) to enable the weather feature.
+- `-` Removed `MediaPlayer` plugin support for `Media Control` widget.
 
 # Get Started
 
@@ -150,12 +134,6 @@ Configure your system monitoring software, and you will get a richer system moni
 
 Please read [this entry](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#important-how-to-configure-my-system-monitoring-software).
 
-## Note: For Windows 8/8.1 users
-
-MediaPlayer plugin is not compatible with Windows 8/8.1. When installing, **“MediaPlayer.dll” must be unchecked in the window to block the installation, otherwise Rainmeter will not work after applying the layout!**
-
-If you still installed it by mistake, please [read it](https://github.com/SteveHsuDrawing/quanto/wiki/Troubleshooting#im-a-windows-881-user-after-installing-quanto-and-applying-layout-i-cant-run-rainmeter-anymore).
-
 # Special Thanks
 
 | Author | Credit |
@@ -166,7 +144,6 @@ If you still installed it by mistake, please [read it](https://github.com/SteveH
 | theAzack9 | [FrostedGlass plugin](https://github.com/TheAzack9/FrostedGlass) |
 | Brian | [HotKey plugin](https://github.com/brianferguson/HotKey.dll) |
 | smurfier | [LuaCalendar](https://forum.rainmeter.net/viewtopic.php?p=63288) |
-| i2002 | [MediaPlayer plugin](https://github.com/i2002/RainmeterMediaPlayer) |
 | NighthawkSLO | [Mouse plugin](https://github.com/NighthawkSLO/Mouse.dll/releases) |
 | JSMorley | [RainRGB4](https://forum.rainmeter.net/viewtopic.php?t=6215) |
 | Brian | [SysColor plugin](https://github.com/brianferguson/SysColor.dll) |
