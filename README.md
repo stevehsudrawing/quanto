@@ -88,11 +88,11 @@ It supports Windows 7 and any newer systems.
 
 <div align="center"><img width="900" alt="5" src="https://user-images.githubusercontent.com/122773837/229330589-904fc083-744e-49ab-92ef-7f13bdb87f26.png"></div>
 
-# Globalization
+# Localization
 
 Welcome your contributions of translation!
 
-If you are interested, please [read it](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation).
+If you are interested, please [read it](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTING.md).
 
 |Code Name|Language Name|Localized Name|Contributor|
 |-|-|-|-|
