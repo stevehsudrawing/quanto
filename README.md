@@ -9,7 +9,7 @@
 
   The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
 
-  **"Flx" Edition, the future of Quanto, is coming soon!**
+  **["Flx" Edition](https://github.com/SteveHsuDrawing/quantoflx), the future of Quanto, is coming soon!**
 
   <img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b2c4e51f-e85f-4553-8f98-304bb71f621d" width=900/>
 
