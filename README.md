@@ -82,9 +82,8 @@ It supports Windows 7 and any newer systems.
 
 # Localization
 
-Welcome your contributions of translation!
-
-If you are interested, please [read it](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTING.md).
+> [!IMPORTANT]
+> This repository **will be archived** as Quanto Original is no longer being updated. It is not recommended to continue uploading translation files.
 
 |Code Name|Language Name|Localized Name|Contributor|
 |-|-|-|-|
