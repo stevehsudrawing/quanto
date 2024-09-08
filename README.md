@@ -1,15 +1,7 @@
+> [!IMPORTANT]
+> This repository **will be archived** as Quanto Original is no longer being updated. Please visit the [Quanto Flx repository](https://github.com/SteveHsuDrawing/quantoflx) or [Patreon](https://www.patreon.com/quantoseries) (for free) to stay up to date on the Quanto Series project.
 
 <div align="center">
-
-  # `1.31.1 UPDATE!`
- 
-  [**CLICK HERE TO DOWNLOAD**](https://github.com/SteveHsuDrawing/quanto/releases)
-
-  [**CLICK HERE TO READ THE CHANGELOG**](https://github.com/SteveHsuDrawing/quanto?tab=readme-ov-file#changelog)
-
-  The relevant language files have been completed. If you are interested in translation work, welcome to [join in](https://github.com/SteveHsuDrawing/quanto/blob/main/CONTRIBUTION.md#Translation)!
-
-  **["Flx" Edition](https://github.com/SteveHsuDrawing/quantoflx), the future of Quanto, is coming soon!**
 
   <img src="https://github.com/SteveHsuDrawing/quanto/assets/122773837/b2c4e51f-e85f-4553-8f98-304bb71f621d" width=900/>
 
