@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+> [!WARNING]
 > This repository **will be archived** as Quanto Original is no longer being updated. Please visit the [Quanto Flx repository](https://github.com/SteveHsuDrawing/quantoflx) or [Patreon](https://www.patreon.com/quantoseries) (for free) to stay up to date on the Quanto Series project.
 
 <div align="center">
@@ -82,7 +82,7 @@ It supports Windows 7 and any newer systems.
 
 # Localization
 
-> [!IMPORTANT]
+> [!WARNING]
 > This repository **will be archived** as Quanto Original is no longer being updated. It is not recommended to continue uploading translation files.
 
 |Code Name|Language Name|Localized Name|Contributor|
